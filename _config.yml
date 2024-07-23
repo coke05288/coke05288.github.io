@@ -26,7 +26,7 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/500x300.png"
-logo                     : "/assets/images/android-chrome-72x72.png"
+logo                     : "/assets/images/logo-main.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "/assets/images/bio-photo.jpg" 
-  bio              : "I am an **amazing** person."
+  name             : "김영준"
+  avatar           : "/assets/images/bio-photo.png" 
+  bio              : "-"
   location         : # "인천 계양구"
-  email            : "coke05288@gmail.com"
+  email            : # "coke05288@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
