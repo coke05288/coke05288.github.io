@@ -107,9 +107,12 @@ body {
 	}
 
   p,
-  li,
   dl {
-    font-size: 1em;
+    font-size: 0.7em;
+  }
+  
+  li {
+    font-size: 0.9em;
   }
 
   /* paragraph indents */
@@ -162,7 +165,7 @@ body {
   }
 
   .small {
-    font-size: $type-size-6;
+    font-size: $type-size-4;
   }
 
   /* blockquote citations */
