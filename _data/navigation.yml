@@ -11,4 +11,9 @@
 #   - title: "Sitemap"
 #     url: /sitemap/
   
-        
+docs:
+  - title: "Algorithm"
+    children:
+      - title: "Gyobo CDA TIL 챌린지"
+        url: "/categories/Gyobo%20CDA%20TIL%20챌린지"
+        category: "Gyobo%20CDA%20TIL%20챌린지"

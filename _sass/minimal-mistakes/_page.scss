@@ -67,6 +67,7 @@ body {
 .page__title {
   margin-top: 0;
   line-height: 1;
+  font-size: $type-size-4;
 
   a {
     color: $text-color;
@@ -84,6 +85,9 @@ body {
 }
 
 .page__content {
+
+  padding-right: 0.5em;
+
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
