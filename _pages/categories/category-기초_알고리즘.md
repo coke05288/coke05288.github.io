@@ -1,13 +1,13 @@
 ---
-title: "Gyobo CDA TIL 챌린지"
+title: "기초 알고리즘"
 layout: archive
-permalink: /categories/Gyobo%20CDA%20TIL%20챌린지
+permalink: /categories/기초%20알고리즘
 author_profile: true
 sidebar:
     nav: "docs"
 ---
 
-{% assign posts =site.categories["Gyobo CDA TIL 챌린지"] %}
+{% assign posts =site.categories["기초 알고리즘"] %}
 {% for post in posts %} 
     {% include archive-single.html type=page.entries_layout %} 
 {% endfor %}

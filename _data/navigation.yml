@@ -14,6 +14,11 @@
 docs:
   - title: "Algorithm"
     children:
-      - title: "Gyobo CDA TIL 챌린지"
-        url: "/categories/Gyobo%20CDA%20TIL%20챌린지"
-        category: "Gyobo%20CDA%20TIL%20챌린지"
+      - title: "기초 알고리즘"
+        url: "/categories/기초%20알고리즘"
+        category: "기초%20알고리즘"
+  - title: "Infra/DevOps"
+    children:
+      - title: "CI/CD"
+        url: "/categories/CI%/CD"
+        category: "CI%/CD"
