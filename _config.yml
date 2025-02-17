@@ -22,7 +22,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "김영준"
 description              : "읽고, 생각하고, 쓰고"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://coke05288.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "coke05288/coke05288.github.io"
 teaser                   : "/assets/images/500x300.png"
@@ -260,6 +260,7 @@ pagination:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-seo-tag
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
